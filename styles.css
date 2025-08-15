@@ -22,6 +22,7 @@ a {
   color: white;
 }
 .container {
+  margin-top: 5px;
   height: 80vh;
   width: 70vw;
   display: grid;
